@@ -15,7 +15,6 @@ This project is a Streamlit web application that provides Chinese to English tra
 ## Project Structure
 
 - `main.py`: The main Streamlit application
-- `model.ipynb`: Jupyter notebook containing the code for fine-tuning the translation model
 
 ## Usage
 
